@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new note.md",
+                "file": "source/content/new note.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new note.md",
+                "file": "source/content/new note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new note.md",
+                "file": "source/content/new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new note.md",
+                "file": "source/content/new note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,9 +169,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fe6eccc61228296",
+  "active": "34ae059e3e9af1fb",
   "lastOpenFiles": [
     "README.md",
-    "new note.md"
+    "source/CODE_OF_CONDUCT.md",
+    "source/docs/layout.md",
+    "source/quartz/static/icon.png",
+    "source/quartz/static/og-image.png",
+    "source/content/category-folder/Some note.md",
+    "source/content/category-folder/index.md",
+    "source/content/index.md",
+    "source/README.md",
+    "source/content/new note.md"
   ]
 }
