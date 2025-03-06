@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/category-folder/Cybernetic Surprise Framework/Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework"
+              "title": "index"
             }
           }
         ],
@@ -186,9 +186,9 @@
   },
   "active": "49b00b633fefb749",
   "lastOpenFiles": [
-    "source/content/category-folder/Cybernetic Surprise Framework/Cybernetic Surprise Framework.md",
-    "source/content/category-folder/Cybernetic Surprise Framework/Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework.md",
     "source/content/category-folder/index.md",
+    "source/content/category-folder/Cybernetic Surprise Framework/Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework.md",
+    "source/content/category-folder/Cybernetic Surprise Framework/Cybernetic Surprise Framework.md",
     "source/docs/images/github-quick-setup.png",
     "source/docs/images/github-init-repo-options.png",
     "source/docs/images/giscus-example.png",
