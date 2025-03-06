@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/new note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "new note"
+              "title": "README"
+            }
+          },
+          {
+            "id": "49b00b633fefb749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/category-folder/Cybernetic Surprise Framework/Cybernetic Surprise Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cybernetic Surprise Framework"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Quartz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/new note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for new note"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/new note.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from new note"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/new note.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of new note"
+              "title": "Outline of README"
             }
           }
         ]
@@ -169,17 +184,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34ae059e3e9af1fb",
+  "active": "49b00b633fefb749",
   "lastOpenFiles": [
-    "README.md",
-    "source/CODE_OF_CONDUCT.md",
-    "source/docs/layout.md",
-    "source/quartz/static/icon.png",
-    "source/quartz/static/og-image.png",
-    "source/content/category-folder/Some note.md",
     "source/content/category-folder/index.md",
+    "source/docs/images/github-quick-setup.png",
+    "source/docs/images/github-init-repo-options.png",
+    "source/docs/images/giscus-example.png",
+    "source/docs/authoring content.md",
+    "source/docs/upgrading.md",
+    "source/docs/showcase.md",
     "source/content/index.md",
+    "source/docs/images/giscus-results.png",
+    "source/docs/images/giscus-repo.png",
+    "source/docs/images/giscus-discussion.png",
+    "source/docs/images/dns records.png",
+    "source/quartz/static/og-image.png",
+    "source/quartz/static/icon.png",
+    "source/content/category-folder/Cybernetic Surprise Framework/Cybernetic Surprise Framework.md",
+    "VSM_Default_Version_English_with_two_operational_systems.png",
     "source/README.md",
-    "source/content/new note.md"
+    "source/content/new note.md",
+    "README.md",
+    "source/content/category-folder/Some note.md",
+    "source/content/category-folder/Cybernetic Surprise Framework",
+    "source/CODE_OF_CONDUCT.md",
+    "source/docs/layout.md"
   ]
 }

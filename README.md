@@ -1,23 +1,79 @@
-# Obsidian / Quartz / GitHub Pages Template
+# Cybernetic Surprise Framework
 
-Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+## A Unified Theory of Adaptive Viability Under Uncertainty
 
-Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
+Welcome to my research repository where I'm exploring how complex adaptive systems maintain viability in the face of surprise and uncertainty.
 
-## Basic setup
+---
 
-Full tutorial with screenshots & videos: https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1. 
+## Research Overview
 
-It's basically (1) fork this (2) go to repo's "Settings" > "Pages", Under "Build and Deployment" select GitHub Actions. Then go to "Actions" and enable GitHub actions for your fork. Edit the pages in [source/content](./source/content) with Obsidian or any text editor. It generates HTML using [Quartz](https://github.com/jackyzha0/quartz). To generate the HTML locally, run `npx quartz build --serve` in `./source/`
+I'm developing the **Cybernetic Surprise Framework (CSF)**, which aims to integrate insights from several foundational theories:
 
-## Raw HTML pages
+- **Viable System Model (VSM)** - Stafford Beer's recursive organizational structures for survival
+- **Free Energy Principle (FEP)** - Karl Friston's theory of cognitive systems minimizing surprise through predictive modeling
+- **Viability Theory** - Mathematical framework for maintaining systems within essential constraints
+- **Autopoiesis & Allopoiesis** - Self-production and environmental adaptation
 
-There is a [source/raw_html](./source/raw_html) folder that gets copied into the build folder in CI. This lets you host arbitrary HTML outside of quartz. Example: https://defenderofbasic.github.io/obsidian-quartz-template/raw-html-test.html
+This synthesis proposes that **all viable systems are essentially surprise minimization engines** that continuously cycle through anticipating, sensing, interpreting, and responding to maintain their existence across scales.
 
-I made the "raw HTML" option for people who are generating HTML UI's with Claude/ChatGPT but want to tweak them/host them themselves. Or make a personal archive of web pages, etc.
+## Key Research Directions
 
-## Further customization
+1. **Mathematical Integration**: I'm working to unify viability kernels with free energy minimization through an augmented free energy functional that encodes safety constraints.
+    
+2. **Fractal Organization**: I'm investigating how viability and surprise minimization operate recursively across scales in nested systems.
+    
+3. **Dual Adaptation Mechanisms**: I'm formalizing how systems respond to surprise through autopoiesis (internal changes) and allopoiesis (external changes).
+    
+4. **Multi-Temporal Optimization**: I'm modeling how systems balance immediate responses, mid-range adaptations, and long-term evolution.
+    
 
-> Quartz is meant to be extremely configurable, even if you don’t know any coding. Most of the configuration you should need can be done by just editing quartz.config.ts or changing the layout in quartz.layout.ts.
+## Current Focus
 
-https://quartz.jzhao.xyz/configuration
+My active research areas include:
+
+- **Computational Simulations**: Developing agent-based models to test the unified framework across various domains
+- **Empirical Validation**: Analyzing real-world cases of organizational and biological adaptation through the CSF lens
+- **Practical Applications**: Creating decision support tools for organizational strategy and policy planning
+
+## Why This Matters
+
+This research has implications for:
+
+- **Organizational Resilience**: Helping institutions adapt to rapid change and uncertainty
+- **AI Safety & Control**: Providing a framework for designing systems that safely navigate novel environments
+- **Biological Systems**: Understanding how living systems maintain integrity amid disruption
+- **Social Coordination**: Modelling how collective behaviours emerge from individual adaptations
+
+## Collaboration Opportunities
+
+I'm seeking collaborators interested in:
+
+- **Mathematical formalization** of the Augmented Free Energy models
+- **Software development** for simulating multi-agent CSF systems
+- **Domain expertise** to translate the framework to specific fields (organizations, biology, AI)
+- **Funding partnerships** to support computational research and publications
+
+## Working Papers & Resources
+
+- [Cybernetic Surprise Framework](https://github.com/yourusername/cybernetic-surprise-framework/blob/main/Cybernetic%20Surprise%20Framework.md) - Primary theoretical synthesis
+
+## Get Involved
+
+- **Star** this repository to follow updates
+- **Fork** the project to contribute improvements
+- **Open an issue** to suggest research directions or applications
+- **Contact me** at [elemenoptrade@gmail.com](mailto:your-email@example.com) for collaboration opportunities
+
+---
+
+_"A viable system is any system organized in such a way as to meet the demands of surviving in the changing environment."_ — Stafford Beer
+
+---
+
+## About Me
+
+I'm a researcher at the intersection of cybernetics, complexity science, and systems theory. My background includes in vitro diagnostics and digital health. I'm building frameworks to help organizations thrive under complexity and change.
+
+I believe in open research and collaborative knowledge-building. My work is published openly to facilitate cross-disciplinary connections and accelerate the development of adaptive systems theory.
+
