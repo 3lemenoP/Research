@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/category-folder/Cybernetic Surprise Framework/Fractal Systems in a Fractal World - A Cybernetic Dance of Variety.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Fractal Systems in a Fractal World - A Cybernetic Dance of Variety"
             }
           }
         ],
@@ -186,8 +186,10 @@
   },
   "active": "49b00b633fefb749",
   "lastOpenFiles": [
-    "source/content/category-folder/index.md",
     "source/content/category-folder/Cybernetic Surprise Framework/Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework.md",
+    "source/content/index.md",
+    "source/content/category-folder/index.md",
+    "source/content/category-folder/Cybernetic Surprise Framework/Fractal Systems in a Fractal World - A Cybernetic Dance of Variety.md",
     "source/content/category-folder/Cybernetic Surprise Framework/Cybernetic Surprise Framework.md",
     "source/docs/images/github-quick-setup.png",
     "source/docs/images/github-init-repo-options.png",
@@ -195,7 +197,6 @@
     "source/docs/authoring content.md",
     "source/docs/upgrading.md",
     "source/docs/showcase.md",
-    "source/content/index.md",
     "source/docs/images/giscus-results.png",
     "source/docs/images/giscus-repo.png",
     "source/docs/images/giscus-discussion.png",
