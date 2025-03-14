@@ -4,6 +4,8 @@
 
 Welcome to my research repository where I'm exploring how complex adaptive systems maintain viability in the face of surprise and uncertainty.
 
+Check out https://3lemenop.github.io/Research/ to keep up to date with my ideas.
+
 ---
 
 ## Research Overview
