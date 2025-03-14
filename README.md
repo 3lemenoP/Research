@@ -56,7 +56,7 @@ I'm seeking collaborators interested in:
 
 ## Working Papers & Resources
 
-- [Cybernetic Surprise Framework](https://github.com/yourusername/cybernetic-surprise-framework/blob/main/Cybernetic%20Surprise%20Framework.md) - Primary theoretical synthesis
+- [Cybernetic Surprise Framework](https://3lemenop.github.io/Research/category-folder/Cybernetic-Surprise-Framework/Cybernetic-Surprise-Framework) - Primary theoretical synthesis
 
 ## Get Involved
 
