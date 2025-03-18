@@ -4,6 +4,8 @@
 
 Welcome to my research repository where I'm exploring how complex adaptive systems maintain viability in the face of surprise and uncertainty.
 
+Check out https://3lemenop.github.io/Research/ to keep up to date with my ideas.
+
 ---
 
 ## Research Overview
@@ -56,7 +58,11 @@ I'm seeking collaborators interested in:
 
 ## Working Papers & Resources
 
+<<<<<<< HEAD
 - [Cybernetic Surprise Framework](https://3lemenop.github.io/Research/category-folder/Cybernetic-Surprise-Framework/Cybernetic-Surprise-Framework) - Primary theoretical synthesis
+=======
+- [Cybernetic Surprise Framework]([https://github.com/yourusername/cybernetic-surprise-framework/blob/main/Cybernetic%20Surprise%20Framework.md](https://3lemenop.github.io/Research/category-folder/Cybernetic-Surprise-Framework/Cybernetic-Surprise-Framework)) - Primary theoretical synthesis
+>>>>>>> origin/main
 
 ## Get Involved
 
