@@ -47,14 +47,14 @@ This research has implications for:
 - **Biological Systems**: Understanding how living systems maintain integrity amid disruption
 - **Social Coordination**: Modelling how collective behaviours emerge from individual adaptations
 
-## Collaboration Opportunities
+## Collaboration & Funding Opportunities
 
-I'm seeking collaborators interested in:
+I'm actively seeking funding support to pursue this research full time, as well as collaborators interested in:
 
 - **Mathematical formalization** of the Augmented Free Energy models
 - **Software development** for simulating multi-agent CSF systems
 - **Domain expertise** to translate the framework to specific fields (organizations, biology, AI)
-- **Funding partnerships** to support computational research and publications
+- **Funding partnerships** from institutions, grants, or sponsors who recognize the potential impact of this work across multiple disciplines
 
 ## Working Papers & Resources
 

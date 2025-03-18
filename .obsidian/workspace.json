@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ],
@@ -214,11 +214,12 @@
   },
   "active": "d64a8d3129e3b660",
   "lastOpenFiles": [
-    "README.md",
+    "source/CODE_OF_CONDUCT.md",
     "source/README.md",
+    "source/content/index.md",
+    "README.md",
     "Untitled.md",
     "source/content/category-folder/index.md",
-    "source/content/index.md",
     "conflict-files-obsidian-git.md",
     "source/content/category-folder/Cybernetic Surprise Framework/Fractal Systems in a Fractal World - A Cybernetic Dance of Variety.md",
     "source/content/category-folder/Cybernetic Surprise Framework/Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework.md",
@@ -239,7 +240,6 @@
     "source/content/new note.md",
     "source/content/category-folder/Some note.md",
     "source/content/category-folder/Cybernetic Surprise Framework",
-    "source/CODE_OF_CONDUCT.md",
     "source/docs/layout.md"
   ]
 }
