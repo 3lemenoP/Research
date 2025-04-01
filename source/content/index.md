@@ -54,10 +54,12 @@ Here are my most developed and validated pieces of research, as well as any revi
 ## PATTERN SYNTHESIS
 Here, I organize emerging ideas into structured drafts that may eventually crystallize.
 
-| Title                                                                                          |
-| ---------------------------------------------------------------------------------------------- |
-| [[Fractal Systems in a Fractal World - A Cybernetic Dance of Variety]]                         |
-| [[Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework]] |
+| Title                                                                                                |
+| ---------------------------------------------------------------------------------------------------- |
+| [[Fractal Systems in a Fractal World - A Cybernetic Dance of Variety]]                               |
+| [[Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework]]       |
+| [[Reasoning for the unification]]                                                                    |
+| [[Unifying the Free Energy Principle and Viability Theory - A Formal Exposition - Work in Progress]] |
 
 ---
 

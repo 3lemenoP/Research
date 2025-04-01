@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 358.5
   },
   "right": {
     "id": "fe51893e94a2f200",
@@ -214,14 +214,16 @@
   },
   "active": "9a4b87497cf24556",
   "lastOpenFiles": [
+    "source/content/category-folder/Unifying the Free Energy Principle and Viability Theory - A Formal Exposition - Work in Progress.md",
+    "source/content/category-folder/Reasoning for the unification.md",
+    "source/content/category-folder/thoughts.md",
+    "source/content/index.md",
+    "source/content/category-folder/Cybernetic Surprise Framework.md",
     "README.md",
     "source/content/category-folder/Algebraic Topology for Viability and Cybernetics - Patterns Through Time.md",
-    "source/content/index.md",
     "source/content/category-folder/Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework.md",
-    "source/content/category-folder/Cybernetic Surprise Framework.md",
     "source/content/category-folder/review from @theproteindance.md",
     "source/content/category-folder/Fractal Systems in a Fractal World - A Cybernetic Dance of Variety.md",
-    "source/content/category-folder/thoughts.md",
     "Full review for max.md",
     "source/content/category-folder/index.md",
     "package-lock.json",
