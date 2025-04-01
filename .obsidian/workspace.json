@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/category-folder/thoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "thoughts"
             }
           },
           {
@@ -215,9 +215,9 @@
   "active": "9a4b87497cf24556",
   "lastOpenFiles": [
     "source/content/category-folder/Unifying the Free Energy Principle and Viability Theory - A Formal Exposition - Work in Progress.md",
+    "source/content/index.md",
     "source/content/category-folder/Reasoning for the unification.md",
     "source/content/category-folder/thoughts.md",
-    "source/content/index.md",
     "source/content/category-folder/Cybernetic Surprise Framework.md",
     "README.md",
     "source/content/category-folder/Algebraic Topology for Viability and Cybernetics - Patterns Through Time.md",

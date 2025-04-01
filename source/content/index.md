@@ -63,7 +63,7 @@ Here, I organize emerging ideas into structured drafts that may eventually cryst
 ---
 
 ## GENERATIVE PROCESSING
-Here’s where I work through more loosely formed reflections, partial analyses, and early-stage conceptual links... Area for things I'm learning about. 
+Here’s where I work through more loosely formed reflections, partial analyses, a#nd early-stage conceptual links... Area for things I'm learning about. 
 
 | Title                                                                        |
 | ---------------------------------------------------------------------------- |
