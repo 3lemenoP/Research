@@ -56,7 +56,6 @@ Here, I organize emerging ideas into structured drafts that may eventually cryst
 
 | Title                                                                                                |
 | ---------------------------------------------------------------------------------------------------- |
-| [[Fractal Systems in a Fractal World - A Cybernetic Dance of Variety]]                               |
 | [[Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework]]       |
 | [[Reasoning for the unification]]                                                                    |
 | [[Unifying the Free Energy Principle and Viability Theory - A Formal Exposition - Work in Progress]] |
@@ -69,6 +68,7 @@ Here’s where I work through more loosely formed reflections, partial analyses,
 | Title                                                                        |
 | ---------------------------------------------------------------------------- |
 | [[Algebraic Topology for Viability and Cybernetics - Patterns Through Time]] |
+| [[Fractal Systems in a Fractal World - A Cybernetic Dance of Variety]]       |
 
 ---
 
