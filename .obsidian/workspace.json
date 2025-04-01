@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           },
           {
@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/category-folder/issues for the real world.md",
+                "file": "source/content/category-folder/Unifying the Free Energy Principle and Viability Theory - A Formal Exposition - Work in Progress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "issues for the real world"
+              "title": "Unifying the Free Energy Principle and Viability Theory - A Formal Exposition - Work in Progress"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,17 +211,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cfbe12a9cfc086d",
+  "active": "5fe6eccc61228296",
   "lastOpenFiles": [
-    "source/content/category-folder/Fractal Systems in a Fractal World - A Cybernetic Dance of Variety.md",
+    "README.md",
     "source/content/category-folder/Unifying the Free Energy Principle and Viability Theory - A Formal Exposition - Work in Progress.md",
-    "source/content/category-folder/Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework.md",
-    "source/content/category-folder/issues for the real world.md",
-    "source/content/category-folder/thoughts.md",
     "source/content/index.md",
+    "source/content/category-folder/issues for the real world.md",
+    "source/content/category-folder/Fractal Systems in a Fractal World - A Cybernetic Dance of Variety.md",
+    "source/content/category-folder/Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework.md",
+    "source/content/category-folder/thoughts.md",
     "source/content/category-folder/Reasoning for the unification.md",
     "source/content/category-folder/Cybernetic Surprise Framework.md",
-    "README.md",
     "source/content/category-folder/Algebraic Topology for Viability and Cybernetics - Patterns Through Time.md",
     "source/content/category-folder/review from @theproteindance.md",
     "Full review for max.md",

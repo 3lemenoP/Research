@@ -59,6 +59,7 @@ Here, I organize emerging ideas into structured drafts that may eventually cryst
 | [[Unifying the Free Energy Principle and Viability Theory in a Cybernetic Surprise Framework]]       |
 | [[Reasoning for the unification]]                                                                    |
 | [[Unifying the Free Energy Principle and Viability Theory - A Formal Exposition - Work in Progress]] |
+| [[issues for the real world]]                                                                        |
 
 ---
 
